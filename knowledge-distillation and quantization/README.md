@@ -9,7 +9,7 @@ The two main techniques used are:
 The entire process, including data loading, custom trainer implementation, and evaluation, is documented in the accompanying Jupyter Notebook.
 
 ## Project Links
-*   **Live Notebook:** [https://github.com/vyshnev/Model-Distillation/blob/main/knowledge-distillation%20and%20quantization/kd_and_quantization.ipynb]
+*   **Live Notebook:** [Notebook](https://github.com/vyshnev/Model-Distillation/blob/main/knowledge-distillation%20and%20quantization/kd_and_quantization.ipynb)
 *   **Fine-Tuned Student Model:** [`Vyshnev/distilbert-base-uncased-finetuned-clinc-student`](https://huggingface.co/Vyshnev/distilbert-base-uncased-finetuned-clinc-student)
 *   **Quantized ONNX Student Model:** [`Vyshnev/distilbert-base-uncased-clinc-student-quantized-onnx`](https://huggingface.co/Vyshnev/distilbert-base-uncased-clinc-student-quantized-onnx)
 
